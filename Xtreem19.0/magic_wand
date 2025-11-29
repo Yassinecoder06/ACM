@@ -1,0 +1,39 @@
+import sys
+input = sys.stdin.readline
+
+def min_flips_to_happy(N, K, S):
+    flip = [0] * (N + 1)  # difference array to mark where flips end
+    flip_parity = 0
+    ans = 0
+
+    for i in range(N):
+        flip_parity ^= flip[i]  # update current parity of flips
+        # If this position is currently sad (after all flips so far)
+        if (S[i] == 'S') ^ flip_parity:
+            if i + K > N:
+                return -1  # can't flip beyond the string
+            ans += 1
+            flip_parity ^= 1
+            flip[i + K] ^= 1  # mark where flip influence ends
+    return ans
+
+
+def main():
+    T_line = input().strip()
+    while T_line == '':
+        T_line = input().strip()
+    T = int(T_line)
+
+    out = []
+    for _ in range(T):
+        line = input().strip()
+        while line == '':
+            line = input().strip()
+        N, K = map(int, line.split())
+        S = input().strip()
+        out.append(str(min_flips_to_happy(N, K, S)))
+    print("\n".join(out))
+
+
+if __name__ == "__main__":
+    main()
