@@ -1,6 +1,5 @@
-n = 6
-l = []
-for i in range(n):
-    for j in range(i+1):
-        l.append(2**i + 2**j)
-print(l)
+from itertools import accumulate
+import operator
+arr = [1,2,3,4,5,6]
+
+print(list(accumulate(arr, operator.mul)))
