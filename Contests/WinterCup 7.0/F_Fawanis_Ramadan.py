@@ -16,4 +16,3 @@ if count(l,n) > count(l[::-1],n):
 if count(l,n) < count(l[::-1],n):
     print("1")
     print(s.find("0"))
-
