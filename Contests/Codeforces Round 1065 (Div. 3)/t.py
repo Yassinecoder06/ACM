@@ -1,0 +1,1 @@
+print(int("110", 2).bit_count())

@@ -1,2 +1,0 @@
-video_path=C:\Users\LENOVO\Videos\YT Downloader
-audio_path=C:\Users\LENOVO\Music\YT Downloader
