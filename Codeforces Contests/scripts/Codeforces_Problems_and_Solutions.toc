@@ -1,0 +1,92 @@
+\contentsline {section}{\numberline {1}Codeforces Round 1003 (Div. 4)}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}A - A Skibidus and Amog u}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}B - B Skibidus and Ohio}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}C1 - C 1 Skibidus and Fanum Tax easy version}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Codeforces Round 1017 (Div. 4)}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}A - A Trippi Troppi}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}B - B Bobritto Bandito}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Codeforces Round 1050 (Div. 4)}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}A - A Sublime Sequence}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}B - B Lasers}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}C - C Pacer}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}D - D Destruction of the Dandelion Fields}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}E - E Split}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Codeforces Round 1059 (Div. 3)}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}A - A Beautiful Average}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}B - B Beautiful String}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}C - C Beautiful XOR}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Codeforces Round 1062 (Div4)}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}A - A Square}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}B - B Your Name}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}C - C Isamatdin and His Magic Wand}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}D - D Yet Another Array Problem}{6}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}E - E khba Loves to Sleep}{6}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Codeforces Round 1065 (Div. 3)}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}A - A Shizuku Hoshikawa and Farm Legs}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}B - B Yuu Koito and Minimum Absolute Sum}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}C1 - C 1 Renako Amaori and XOR Game easy version}{6}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Codeforces Round 1071 (Div. 3)}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}A - A Blackslex and Password}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}B - B Blackslex and Showering}{7}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}C - C Blackslex and Number Theory}{7}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Codeforces Round 1072 (Div. 3)}{7}{section.8}%
+\contentsline {subsection}{\numberline {8.1}A - A Social Experiment}{7}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}B - B Hourglass}{7}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}C - C Huge Pile}{7}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Codeforces Round 1073 (Div.2)}{7}{section.9}%
+\contentsline {subsection}{\numberline {9.1}A - A Array Coloring}{8}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}B - B MEX Reordering}{8}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}C - C Sorting Game}{8}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}D1 - D 1 Sub RBS Easy Version}{8}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Codeforces Round 1074 (Div.4)}{8}{section.10}%
+\contentsline {subsection}{\numberline {10.1}A - A Perfect Root}{8}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}B - B Prefix Max}{8}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}C - C Shifted MEX}{8}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}D - D OutOfMemoryError}{8}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}E - E The Robotic Rush}{9}{subsection.10.5}%
+\contentsline {section}{\numberline {11}Codeforces Round 1075 (Div. 2)}{9}{section.11}%
+\contentsline {subsection}{\numberline {11.1}A - A Table with Numbers}{9}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}B - B The Curse of the Frog}{9}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}C1 - C 1 XOR Convenience Easy Version}{9}{subsection.11.3}%
+\contentsline {section}{\numberline {12}Codeforces Round 1076 (Div. 3)}{9}{section.12}%
+\contentsline {subsection}{\numberline {12.1}A - A. DBMB and the Array}{9}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}B - B. Reverse a Permutation}{9}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}C - C. Replace and Sum}{9}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}D - D. Monster Game}{10}{subsection.12.4}%
+\contentsline {section}{\numberline {13}Codeforces Round 1077 (Div. 2)}{10}{section.13}%
+\contentsline {subsection}{\numberline {13.1}A - A Divisible Permutation}{10}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}B - B Seats}{10}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Codeforces Round 1078 (Div. 2)}{10}{section.14}%
+\contentsline {subsection}{\numberline {14.1}A - A Lawn Mower}{10}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}B - B Offshores}{10}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}C - C Secret message}{10}{subsection.14.3}%
+\contentsline {section}{\numberline {15}Codeforces Round 1080 (Div. 3)}{10}{section.15}%
+\contentsline {subsection}{\numberline {15.1}A - A Sieve of Erato 67 henes}{11}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}B - B Heapify 1}{11}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}C - C Dice Roll Sequence}{11}{subsection.15.3}%
+\contentsline {section}{\numberline {16}Codeforces Round 1084 (Div. 3)}{11}{section.16}%
+\contentsline {subsection}{\numberline {16.1}A - A Eating Game}{11}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}B - B Deletion Sort}{11}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}C - C Specialty String}{11}{subsection.16.3}%
+\contentsline {subsection}{\numberline {16.4}D - D Portal}{11}{subsection.16.4}%
+\contentsline {section}{\numberline {17}Codeforces Round 1086 (Div. 2)}{12}{section.17}%
+\contentsline {subsection}{\numberline {17.1}A - A Bingo Candies}{12}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}B - B Cyclists}{12}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}C - C Stamina and Tasks}{12}{subsection.17.3}%
+\contentsline {section}{\numberline {18}Codeforces Round 1087 (Div. 2)}{12}{section.18}%
+\contentsline {subsection}{\numberline {18.1}A - A Flip Flops}{12}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2}B - B Array}{12}{subsection.18.2}%
+\contentsline {section}{\numberline {19}Codeforces Round 1089 (Div. 2)}{12}{section.19}%
+\contentsline {subsection}{\numberline {19.1}A - A A Simple Sequence}{12}{subsection.19.1}%
+\contentsline {subsection}{\numberline {19.2}B - B Simply Sitting on Chairs}{13}{subsection.19.2}%
+\contentsline {subsection}{\numberline {19.3}C1 - C 1 A Simple GCD Problem Easy Version}{13}{subsection.19.3}%
+\contentsline {section}{\numberline {20}Codeforces Round 1090 (Div. 4)}{13}{section.20}%
+\contentsline {subsection}{\numberline {20.1}A - A The 67 th Integer Problem}{13}{subsection.20.1}%
+\contentsline {subsection}{\numberline {20.2}B - B The 67 th 6 7 Integer Problem}{13}{subsection.20.2}%
+\contentsline {subsection}{\numberline {20.3}C - C The 67 th Permutation Problem}{13}{subsection.20.3}%
+\contentsline {subsection}{\numberline {20.4}D - D The 67 th OEIS Problem}{13}{subsection.20.4}%
+\contentsline {subsection}{\numberline {20.5}E - E The 67 th XOR Problem}{13}{subsection.20.5}%
+\contentsline {section}{\numberline {21}Educational Codeforces Round 188 (Rated for Div. 2)}{13}{section.21}%
+\contentsline {subsection}{\numberline {21.1}A - A Passing the Ball}{14}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2}B - B Right Maximum}{14}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3}C - C Spring}{14}{subsection.21.3}%
