@@ -1,46 +1,28 @@
 import sys
-import heapq
 
+input = sys.stdin.read
+data = input().split()
 
-def solve() -> None:
-    data = list(map(int, sys.stdin.buffer.read().split()))
-    t = data[0]
-    idx = 1
-    outputs = []
+iterator = iter(data)
+t = int(next(iterator))
+out = []
 
-    for _ in range(t):
-        n = data[idx]
-        idx += 1
-        a = data[idx:idx + n]
-        idx += n
+for _ in range(t):
+    n = int(next(iterator))
+    seen = [False] * (n + 1)
+    a = []
 
-        counts = [0] * (n + 1)
-        heap = [(0, v) for v in range(1, n + 1)]
-        heapq.heapify(heap)
+    for _ in range(n):
+        x = int(next(iterator))
+        if not seen[x]:
+            seen[x] = True
+            a.append(x)
 
-        res = [0] * n
-        prev = None
+    res = [str(x) for x in a]
+    for i in range(1, n + 1):
+        if not seen[i]:
+            res.append(str(i))
 
-        for i, ai in enumerate(a):
-            if i == 0 or ai != prev:
-                chosen = ai
-            else:
-                while heap and counts[heap[0][1]] != heap[0][0]:
-                    heapq.heappop(heap)
-                if heap and heap[0][0] < counts[ai]:
-                    chosen = heap[0][1]
-                else:
-                    chosen = ai
-
-            counts[chosen] += 1
-            heapq.heappush(heap, (counts[chosen], chosen))
-            res[i] = chosen
-            prev = ai
-
-        outputs.append(" ".join(map(str, res)))
-
-    sys.stdout.write("\n".join(outputs))
-
-
-if __name__ == "__main__":
-    solve()
+    out.append(" ".join(res))
+    
+sys.stdout.write('\n'.join(out) + '\n')
