@@ -1,28 +1,31 @@
 t = int(input())
 out = []
-for _ in range(t):
-    n,k = map(int, input().split())
 
-    a = list(map(int, input().split())) 
+for _ in range(t):
+    n, k = map(int, input().split())
+    a = list(map(int, input().split()))
     a.sort()
-    
-    possible = False
-    current_comp_size = 1
-    
+
+    pairs = [[a[0], 1]]
     for i in range(1, n):
-        if a[i] - a[i-1] <= k:
-            current_comp_size += 1
+        if a[i] == a[i - 1]:
+            pairs[-1][1] += 1
         else:
-            if current_comp_size % 2 != 0:
-                possible = True
-            current_comp_size = 1  
-    
-    if current_comp_size % 2 != 0:
-        possible = True
-        
-    if possible:
-        out.append("YES")
-    else:
-        out.append("NO")
-        
+            pairs.append([a[i], 1])
+
+    ok = False
+    while pairs:
+        m = len(pairs)
+        if pairs[-1][1] % 2 == 0:
+            ok = True
+            break
+        if m == 1:
+            break
+        if pairs[-1][0] - pairs[-2][0] <= k:
+            ok = True
+            break
+        pairs.pop()
+
+    out.append("YES" if ok else "NO")
+
 print('\n'.join(out))
